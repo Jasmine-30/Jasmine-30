@@ -3,11 +3,12 @@
 
 <img align="right" alt="Jasmine" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmine-30&label=Profile%20views&color=0e75b6&style=flat" alt="jasmine-30" /> </p>
 
 - 🌱 Embarking on a **Blockchain Odyssey**
 
-- 💬 Ask me about **ideas**
+- 💬 Ask me about **crypto**
 
 - 📫 How to reach me **jasmine30052002@gmail.com**
 
